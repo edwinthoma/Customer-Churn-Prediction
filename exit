@@ -1,0 +1,7 @@
+* [33maccd0f9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Compared and Analyzed Churn based on tenure and contract type
+* [33mbdb232a[m Analyzed churn with respect to tenure
+* [33m69427ab[m Analyzed churn in different contract type
+* [33m79e5029[m Found percentage of churn
+* [33me47f20c[m Loaded dataset and performed initial inspection
+* [33m2c49e69[m Added churn dataset and updated README
+* [33m2b73ceb[m Initial project structure
